@@ -29,16 +29,5 @@ Hi, I'm **Rokesh Prakash**, a passionate **Software Engineer & MS Computer Engin
 🔹 **Graduate Teaching Assistant (C & C++ Lab) @ Stony Brook University**  
 🔹 **AI, DevOps, and Full-Stack Enthusiast**  
 
-📫 **How to reach me?**  
-📧 rokesh2897@gmail.com  
-🌐 [Portfolio]((https://rokesh28.github.io/))  
-
-
-
-## 📊 GitHub Stats  
-![Rokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rokesh28&show_icons=true&theme=dark&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rokesh28&layout=compact&theme=dark)
-
 ---
-
 💡 *Always learning, innovating, and building scalable systems!* 🚀  
