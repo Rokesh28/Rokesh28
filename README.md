@@ -31,7 +31,7 @@ Hi, I'm **Rokesh Prakash**, a passionate **Software Engineer & MS Computer Engin
 
 📫 **How to reach me?**  
 📧 rokesh2897@gmail.com  
-🌐 [Portfolio]([your-portfolio-link](https://rokesh28.github.io/))  
+🌐 [Portfolio]((https://rokesh28.github.io/))  
 
 
 
