@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Rokesh Prakash**, a passionate **Software Engineer & MS Computer Engineering** student at **Stony Brook University**. My expertise lies in **.NET, C#, Python, Cloud Computing, AI, and Distributed Systems**. With hands-on experience in **Azure, Kubernetes, CI/CD, and Microservices**, I love solving complex problems and building scalable solutions.  
+Hi, I'm **Rokesh Prakash**, a passionate **Software Engineer & MS Computer Engineering** student at **Stony Brook University**. My expertise lies in **.NET, C#, Python, Cloud Computing, AI, and Distributed Systems**. With hands-on experience in **Azure, AWS, Kubernetes, CI/CD, and Microservices**, I love solving complex problems and building scalable solutions.  
 
 🔹 **MS in Computer Engineering @ Stony Brook University** (GPA: 3.88)  
 🔹 **Former Software Engineer @ Congruent Solutions & SVP Laser Technologies**  
