@@ -13,9 +13,10 @@
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00ff99?logo=internetexplorer&style=for-the-badge">
   </a>
   <a href="https://medium.com/@rokesh2897">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-white?logo=medium&logoColor=000000&style=for-the-badge">
   </a>
 </p>
+
 
 
 ---
