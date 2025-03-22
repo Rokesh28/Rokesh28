@@ -1,7 +1,8 @@
-<h1 align="center">Hi there, I'm Rokesh Prakash 👋</h1>
+<h1 align="center">Hi there</h1>
+<h1 align="center"> I'm Rokesh Prakash 👋 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Software+Engineer;Cloud+%7C+AI+%7C+Full+Stack+Developer;Building+Scalable+Solutions+%F0%9F%9A%80;Let's+Connect+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Software+Engineer;Cloud+%7C+AI+%7C+FullStack+Developer;Building+Scalable+Solutions+%F0%9F%9A%80;Let's+Connect+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +15,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm **Rokesh Prakash**, a passionate **Software Engineer** and **M.S. in Computer Engineering** student at **Stony Brook University** with a GPA of **3.88**.
+🎓 I'm **Rokesh Prakash**, a passionate **Software Engineer** with 3+ years experience and **M.S. in Computer Engineering** student at **Stony Brook University** with a GPA of **3.88**.
 
 💼 I bring **professional experience** in full-stack development, DevOps, and scalable cloud-based systems. I've worked with:
 - **.NET Core | C# | Python | ReactJS**
@@ -28,24 +29,38 @@
 ## 🔥 Tech Highlights
 
 - 🛠️ Developed scalable .NET + React applications for **5M+ users**
-- 📧 Integrated **SendGrid** for dynamic email automation
 - 🧩 Built microservices architecture with **Docker + K8s**
-- 🚀 Optimized system performance up to **300%** using **Dapper ORM & SQL tuning**
+- 🚀 Optimized system performance up to **300%** using **Dapper ORM & SQL SP tuning**
+- - 📧 Integrated **SendGrid** for dynamic email automation
 - 🎯 Created a CNC control app with **4/5-axis automation**
 
 ---
 
 ## 📌 Featured Projects
 
-🔗 Check out all my projects on my [📁 Portfolio](https://rokesh28.github.io/)
+🔗 Check out all my work on my [🌐 Portfolio](https://rokesh28.github.io/)
 
-Here are a few highlights:
+- 🤖 [**Jarvis: Personal AI Chatbot**](https://github.com/Rokesh28/Jarvis-Personal-AI-Assistant/tree/main)  
+  Your personal AI assistant powered by **RAG** and **OpenAI API**. Jarvis can answer questions about my skills, projects—even my visa status—with contextual accuracy and seamless interaction. A truly smart chatbot built for real-world scenarios!
 
-- 🎯 [**Budget Buddy**](https://github.com/Rokesh28/Budget-Buddy): A smart finance manager built in React + .NET, helping users track expenses in real time.  
-- 📚 [**PageTurners**](https://github.com/Rokesh28/PageTurners): A secure e-commerce platform for book lovers, powered by Stripe integration & full-stack architecture.  
-- 💡 [**AI Chatbot (Medical)**](https://github.com/Rokesh28/): Built using **Mistral AI + RAG + LLaMA**, fine-tuned for real-time patient-doctor Q&A.  
-- ⚙️ [**CNC Machine Controller**](https://github.com/Rokesh28/): C# desktop app to control multi-axis CNC machines for precision manufacturing.  
-- 🧠 [**AI DevOps Challenge**](https://github.com/Rokesh28/): Showcased in **Cloud Bootcamp**, combining multi-cloud deployment with LLMs and prompt engineering.
+- 📊 **AI Grading Assistant - SBU**  
+  Revolutionized grading at **Stony Brook University**! Leveraged AI to reduce manual grading effort by 80%, auto-suggest marks, provide rubric-based feedback, and flag inconsistencies—ensuring **accuracy, speed, and fairness** in assessments.
+  
+- ☁️ [**MultiCloud Migration & CI/CD Automation**](https://github.com/Rokesh28/cloudmart)  
+  Migrated a large-scale e-commerce app to **AWS, Azure & GCP**. Used **Terraform** for IaC, **Kubernetes (EKS)** for orchestration, and built robust CI/CD pipelines—boosting deployment speed by 60% and achieving seamless cloud portability.
+  
+- 📚 [**PageTurners E-Commerce**](https://github.com/Rokesh28/PageTurners)  
+  A full-stack bookstore built with **.NET 8**, **Stripe**, **SendGrid**, and **Azure Web Apps**. Supports user auth, cart, orders, and payments. Sleek UI powered by Bootstrap v5 and robust backend with **Entity Framework**.
+  
+- 💬 **Multilingual Medical Chatbot**  
+  Fine-tuned **LLaMA 7B with LoRA** to handle complex medical queries with 63% better accuracy and 58% improved terminology comprehension. Trained on **Google Colab A100 GPU**, this project pushes boundaries in **healthcare AI & multilingual NLP**.
+
+- ⚙️ [**AI Cloud Automation with Bedrock**](https://github.com/Rokesh28/cloudmart)  
+  Combined **Claude 3 Sonnet (Bedrock)** and **GPT-4o** to automate 80% of customer support queries. Extracted insights from 10K+ reviews using **Azure AI Text Analytics**, boosting product recommendations by 40% in a GenAI-powered shopping flow.
+
+- 💰 [**Budget Buddy (Expense Tracker)**](https://github.com/Rokesh28/Budget_Buddy)  
+  Built using **ASP.NET Core MVC + Syncfusion**, this tracker helps users manage finances smartly. Improved performance by 25% and increased user interaction with dynamic charts and insights deployed on **Azure**.
+
 
 ---
 
