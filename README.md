@@ -6,9 +6,17 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rokeshprakash"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="https://rokesh28.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00ff99?logo=internetexplorer&style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/rokeshprakash">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
+  </a>
+  <a href="https://rokesh28.github.io/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00ff99?logo=internetexplorer&style=for-the-badge">
+  </a>
+  <a href="https://medium.com/@rokesh2897">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-black?logo=medium&style=for-the-badge">
+  </a>
 </p>
+
 
 ---
 
