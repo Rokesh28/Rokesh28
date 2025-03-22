@@ -52,7 +52,9 @@
   Migrated a large-scale e-commerce app to **AWS, Azure & GCP**. Used **Terraform** for IaC, **Kubernetes (EKS)** for orchestration, and built robust CI/CD pipelines—boosting deployment speed by 60% and achieving seamless cloud portability.
   
 - 📚 [**PageTurners E-Commerce**](https://github.com/Rokesh28/PageTurners)  
-  A full-stack bookstore built with **.NET 8**, **Stripe**, **SendGrid**, and **Azure Web Apps**. Supports user auth, cart, orders, and payments. Sleek UI powered by Bootstrap v5 and robust backend with **Entity Framework**.
+  A full-stack bookstore built with **.NET 8**, **Stripe**, **SendGrid**, and hosted on **Azure Web Apps**. Features user auth, cart, orders, and secure payments. Sleek UI with **Bootstrap v5** and a solid backend powered by **Entity Framework**.  
+  👉 **Check out the live demo [here](https://pageturners.azurewebsites.net/)** — if it naps (thanks to free-tier idle timeout), give it a couple of gentle refreshes at 5–10 sec intervals. It'll wake up and impress you! 😄
+
   
 - 💬 **Multilingual Medical Chatbot**  
   Fine-tuned **LLaMA 7B with LoRA** to handle complex medical queries with 63% better accuracy and 58% improved terminology comprehension. Trained on **Google Colab A100 GPU**, this project pushes boundaries in **healthcare AI & multilingual NLP**.
