@@ -2,7 +2,7 @@
 <h1 align="center"> I'm Rokesh Prakash 👋 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Software+Engineer;Cloud+%7C+AI+%7C+FullStack+Developer;Building+Scalable+Solutions+%F0%9F%9A%80;Let's+Connect+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=Software+Engineer;Cloud+%7C+AI+%7C+Full+Stack+Developer;Building+Scalable+Solutions+%F0%9F%9A%80;Let's+Connect" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm **Rokesh Prakash**, a passionate **Software Engineer** with 3+ years experience and **M.S. in Computer Engineering** student at **Stony Brook University** with a GPA of **3.88**.
+🎓I'm **Rokesh Prakash**, a passionate **Software Engineer** with 3+ years of experience and a **Master’s student in Computer Engineering** at **Stony Brook University**, holding a GPA of **3.88**.
 
 💼 I bring **professional experience** in full-stack development, DevOps, and scalable cloud-based systems. I've worked with:
 - **.NET Core | C# | Python | ReactJS**
@@ -26,12 +26,12 @@
 
 ---
 
-## 🔥 Tech Highlights
+## ⚙️ Professional Experience & Key Contributions
 
 - 🛠️ Developed scalable .NET + React applications for **5M+ users**
 - 🧩 Built microservices architecture with **Docker + K8s**
 - 🚀 Optimized system performance up to **300%** using **Dapper ORM & SQL SP tuning**
-- - 📧 Integrated **SendGrid** for dynamic email automation
+- 📧 Integrated **SendGrid** for dynamic email automation
 - 🎯 Created a CNC control app with **4/5-axis automation**
 
 ---
@@ -41,7 +41,9 @@
 🔗 Check out all my work on my [🌐 Portfolio](https://rokesh28.github.io/)
 
 - 🤖 [**Jarvis: Personal AI Chatbot**](https://github.com/Rokesh28/Jarvis-Personal-AI-Assistant/tree/main)  
-  Your personal AI assistant powered by **RAG** and **OpenAI API**. Jarvis can answer questions about my skills, projects—even my visa status—with contextual accuracy and seamless interaction. A truly smart chatbot built for real-world scenarios!
+  Your personal AI assistant powered by **RAG** and **OpenAI API**. Jarvis delivers accurate, context-aware responses to questions about my skills, projects—even my visa status.  
+  👉 **Experience it live on my [portfolio](https://rokesh28.github.io/)** — just start chatting!
+
 
 - 📊 **AI Grading Assistant - SBU**  
   Revolutionized grading at **Stony Brook University**! Leveraged AI to reduce manual grading effort by 80%, auto-suggest marks, provide rubric-based feedback, and flag inconsistencies—ensuring **accuracy, speed, and fairness** in assessments.
