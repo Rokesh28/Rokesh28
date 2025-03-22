@@ -97,8 +97,7 @@ Feel free to reach out via [LinkedIn](https://linkedin.com/in/rokeshprakash) or 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokesh28&layout=compact&theme=react" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rokesh28&theme=radical" alt="Rokesh's streak" />
-  🌱 *“Always learning. Always shipping. Always improving.”*
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rokesh28&theme=radical" alt="Rokesh's streak" /> 
 </p>
 🌱 *“Always learning. Always shipping. Always improving.”*
 <div align="center">
