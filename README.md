@@ -92,10 +92,7 @@ Feel free to reach out via [LinkedIn](https://linkedin.com/in/rokeshprakash) or 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rokesh28&show_icons=true&theme=react&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rokesh28&layout=compact&theme=react" height="165" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rokesh28&theme=radical" alt="Rokesh's streak" />
 </p>
