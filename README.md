@@ -46,7 +46,6 @@
 
 ## 📌 Featured Projects
 
-🔗 Check out all my work on my [🌐 Portfolio](https://rokesh28.github.io/)
 
 - 🤖 [**Jarvis: Personal AI Chatbot**](https://github.com/Rokesh28/Jarvis-Personal-AI-Assistant/tree/main)  
   Your personal AI assistant powered by **RAG** and **OpenAI API**. Jarvis delivers accurate, context-aware responses to questions about my skills, projects—even my visa status.  
