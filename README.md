@@ -27,7 +27,7 @@
 
 💼 I bring **professional experience** in full-stack development, DevOps, and scalable cloud-based systems. I've worked with:
 - **.NET Core | C# | Python | ReactJS**
-- **Azure | AWS | Docker | Kubernetes | CI/CD**
+- **AWS | Azure | Docker | Kubernetes | CI/CD**
 - **Microservices | Distributed Systems | AI & ML**
 
 🧑‍🏫 Currently serving as a **Graduate Teaching Assistant (C & C++ Lab)** and constantly exploring new technologies to stay ahead of the curve.
@@ -39,7 +39,7 @@
 - 🛠️ Developed scalable .NET + React applications for **5M+ users**
 - 🧩 Built microservices architecture with **Docker + K8s**
 - 🚀 Optimized system performance up to **300%** using **Caching, Dapper ORM & SQL SP tuning**
-- 📧 Integrated **SendGrid** for dynamic email automation
+- 📧 Revamped notification system to cut latency by 80% and scale personalized delivery to 5M+ users.
 - 🎯 Created a CNC control app with **4/5-axis automation**
 
 ---
