@@ -26,7 +26,7 @@
 🎓I'm **Rokesh Prakash**, a passionate **Software Engineer** with 3+ years of experience and a **Master’s student in Computer Engineering** at **Stony Brook University**, holding a GPA of **3.88**.
 
 💼 I bring **professional experience** in full-stack development, DevOps, and scalable cloud-based systems. I've worked with:
-- **.NET Core | C# | Java | Python | ReactJS | Angular | TypeScript **
+- **.NET Core | C# | Java | Python | ReactJS | Angular | TypeScript**
 - **AWS | Azure | Docker | Kubernetes | CI/CD**
 - **Microservices | Distributed Systems | AI & ML**
 
