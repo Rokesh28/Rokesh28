@@ -38,9 +38,9 @@
 
 - 🛠️ Developed scalable .NET + React applications for **5M+ users**
 - 🧩 Built microservices architecture with **Docker + K8s**
-- 🚀 Optimized system performance up to **300%** using **Caching, Dapper ORM & SQL SP tuning**
+- 🚀 Optimized system performance up to **300%** using **Caching, Indexing, Dapper ORM & SQL SP tuning**
 - 📧 Revamped notification system to cut latency by 80% and scale personalized delivery to 5M+ users.
-- 🎯 Created a CNC control app with **4/5-axis automation**
+- 🎯 Created a CNC control applicaiton with **4/5-axis automation**
 
 ---
 
